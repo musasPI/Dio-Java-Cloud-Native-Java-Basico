@@ -1,8 +1,6 @@
 //importa o Scanner para permissão de leitura do terminal;
 import java.util.Scanner;
 
-
-
 public class ContaTerminal {
     public static void main(String[] args) throws Exception {
         Scanner in = new Scanner(System.in);
